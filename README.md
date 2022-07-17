@@ -6,9 +6,9 @@ const profile = {
     serverThings: ["NodeJS", "NestJS", "ExpressJS", "MongoDB", "MySQL", "Firebase"],
     mobileThings: ["Ionic"],
     cloudThings : ["AWS", "Heroku"]
-        },
+  },
   languages: ["Arabic", "English"],
-  currentFocus: "Creating 'the next big thing' ",
+  currentFocus: "Creating • the next big thing • ",
 }
 ```
 
