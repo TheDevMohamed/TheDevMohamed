@@ -1,5 +1,5 @@
 ```typescript
-const profile = {
+const profile: Profile = {
  name: "Mohammed Alkhunaizi",
  programmingSkills: {
     clientThings: ["HTML","CSS", "JavaScript", "Typescript", "Angular"],
