@@ -4,7 +4,7 @@ const profile: Profile = {
  programmingSkills: {
     clientThings: ["HTML","CSS", "JavaScript", "Typescript", "Angular"],
     serverThings: ["NodeJS", "NestJS", "SpringBoot", "MongoDB", "MySQL", "Firebase"],
-    devOpsThings: ["Docker", "k8s"]
+    devOpsThings: ["Docker", "k8s"],
     mobileThings: ["Ionic"],
     cloudThings : ["AWS", "Heroku"]
   },
